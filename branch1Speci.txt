@@ -1,0 +1,2 @@
+this file is specific to branch1
+chekout master branch if this exists before merging.No right?
